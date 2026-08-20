@@ -35,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/antonndev/ADaemon/main/install.sh |
 **ADPanel™** | The open-source Docker Panel engineered for speed. Host containers with ease. While others charge for features, we deliver free.
 
 ### Architecture
-* **Security Rule #1** We bring an Apple-like experience to the developer's workflow.
+* **Security Rule #1** Everything is isolated.
 * **Needing a change** Developers shouldn't have to settle for outdated interfaces. We're ending the era of boring, complex UIs.
 
 ### Documentation & Resources
